@@ -49,7 +49,7 @@ end
 -- =============================================
 local CORRECT_KEY   = "Blazexfire"
 local KEY_FILE      = "FireflaskKey.txt"
-local DISCORD_LINK  = "https://discord.gg/nJ6P8VVSCm"
+local DISCORD_LINK  = "https://discord.gg/d5BA5EYSpM"
 
 local function keyAlreadySaved()
    if isfile and isfile(KEY_FILE) then
